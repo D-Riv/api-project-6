@@ -50,7 +50,7 @@ POST /submit
 
 **Methods** : `GET, POST`
 
-**Auth required** : Yes
+**Auth required** : No
 
 **Permissions required** : None
 
