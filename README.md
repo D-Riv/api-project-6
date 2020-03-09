@@ -14,7 +14,7 @@ Checkout a list of all your favorite shows from around the world. Includes shows
 ### Deployment
 
 To deploy the api utilize the link below.
-[Use this link to my project!](https://d-riv.github.io/Project-1-Portfolio/)
+[Use this link to my project!](https://api-project-6.herokuapp.com/index)
 
 ## Endpoints
 
