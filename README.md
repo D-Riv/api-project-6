@@ -21,25 +21,25 @@ To deploy the api utilize the link below.
 Get a list of all tv shows
 
 ```
-GET /
+GET /index
 ```
 
 Get a list of all shows with a particular rating
 
 ```
-GET /rating
+GET /rating/:rating
 ```
 
 Get a list of all shows on a specific network
 
 ```
-GET /network
+GET /network/:network
 ```
 
 Get a details on one of your favorite shows
 
 ```
-GET /show
+GET /show/:show
 ```
 
 Submit a show that you dont see in the list
